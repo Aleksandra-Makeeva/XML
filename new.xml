@@ -1,0 +1,24 @@
+<!DOCTYPE info>
+<info lang="xml">
+	<info>
+		<First_name>
+			Aleksandra
+		</First_name>
+		<Last_name>
+			Makeeva
+		</Last_name>
+		<Patronymic>
+			Sergeevna
+		</Patronymic>
+		<Age>
+			29
+		</Age>
+		<Number_of_pets>
+			1
+		</Number_of_pets>
+		<Future_desired_salary>
+			50000
+		</Future_desired_salary>
+
+	</info>
+</info>
