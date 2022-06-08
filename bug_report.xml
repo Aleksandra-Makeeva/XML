@@ -1,0 +1,36 @@
+<!DOCTYPE bug_report>
+<bug_report lang="xml">
+  <bug_report>
+  <id> 
+      1
+ </id>
+ <Title>
+    bug_report
+  </Title>    
+  <Severity>
+      Minor
+  </Severity>
+  <Priority>
+      Low
+  </Priority>
+  <Environment>
+      Honor 8a Android 9.0
+  </Environment>
+  <STR>
+      step 1
+  </STR>
+  <STR>
+      step 2
+  </STR>
+  
+  <AR>
+      App open
+  </AR> 
+  <ER>
+      Error
+  </ER>
+  <Attachments>
+      Link
+  </Attachments>
+        </bug_report>
+</bug_report>
