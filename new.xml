@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <info>
-	<first_name>
-		Aleksandra
-	</first_name>
-	<last_name>
-		Makeeva
-	</last_name>
-	<patronymic>
-		Sergeevna
-	</patronymic>
-	<age>
-		29
-	</age>
-	<number_of_pets>
-		1
-	</number_of_pets>
-	<future_desired_salary>
-		50000
-	</future_desired_salary>
+	<FIO>
+		<first_name>
+			Aleksandra
+		</first_name>
+		<last_name>
+			Makeeva
+		</last_name>
+		<patronymic>
+			Sergeevna
+		</patronymic>
+	</FIO>
+	<age> 29 </age>
+	<number_of_pets> 1 </number_of_pets>
+	<future_desired_salary> 50000 </future_desired_salary>
 
 </info>

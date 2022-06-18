@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preferences>
-	<favorite>
-		<movia>
-			The Lord of the Rings
-		</movia>
-		<tv_show>
-			Once Upon a Time
-		</tv_show>
-		<food>
-			It's hard to answer
-		</food>
-		<time_of_year>
-			Spring
-		</time_of_year>
-	</favorite>
-	<country_you_would_like_to_vizit>
-		It's hard to answer
-	</country_you_would_like_to_vizit>
+	<table>
+		<tr>
+			<th> Favorite movia </th>
+			<td> The Lord of the Rings </td>
+		</tr>
+		<tr>
+			<th> Favorite TV show </th>
+			<td> Once Upon a Time </td>
+		</tr>
+		<tr>
+			<th> Favorite foof </th>
+			<td> It's hard to answer </td>
+		</tr>
+		<tr>
+			<th> Favorire time_of_year </th>
+			<td> Spring </td>
+		</tr>
+		<tr> 
+			<th> Country_you_would_like_to_vizit> </th>
+			<td> It's hard to answer </td>
+		</tr>
+	</table>	
 </preferences>
 
 
