@@ -1,24 +1,22 @@
-<!DOCTYPE info>
-<info lang="xml">
-	<info>
-		<First_name>
-			Aleksandra
-		</First_name>
-		<Last_name>
-			Makeeva
-		</Last_name>
-		<Patronymic>
-			Sergeevna
-		</Patronymic>
-		<Age>
-			29
-		</Age>
-		<Number_of_pets>
-			1
-		</Number_of_pets>
-		<Future_desired_salary>
-			50000
-		</Future_desired_salary>
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+	<first_name>
+		Aleksandra
+	</first_name>
+	<last_name>
+		Makeeva
+	</last_name>
+	<patronymic>
+		Sergeevna
+	</patronymic>
+	<age>
+		29
+	</age>
+	<number_of_pets>
+		1
+	</number_of_pets>
+	<future_desired_salary>
+		50000
+	</future_desired_salary>
 
-	</info>
 </info>

@@ -1,21 +1,22 @@
-<!DOCTYPE preferences>
-<preferences lang="xml">
-        <preferences>
-                <Favorite_movia>
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+	<favorite>
+		<movia>
 			The Lord of the Rings
-		</Favorite_movia>
-		<Favorite_TV_show>
+		</movia>
+		<tv_show>
 			Once Upon a Time
-		</Favorite_TV_show>
-		<Favorite_food>
+		</tv_show>
+		<food>
 			It's hard to answer
-		</Favorite_food>
-		<Favorite_time_of_year>
+		</food>
+		<time_of_year>
 			Spring
-		</Favorite_time_of_year>
-		<Country_you_would_like_to_vizit>
-			It's hard to answer
-		</Country_you_would_like_to_vizit>
-	</preferences>
+		</time_of_year>
+	</favorite>
+	<country_you_would_like_to_vizit>
+		It's hard to answer
+	</country_you_would_like_to_vizit>
 </preferences>
+
 
