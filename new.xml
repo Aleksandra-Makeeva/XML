@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <info>
-	<first_name>
-		Aleksandra
-	</first_name>
-	<last_name>
-		Makeeva
-	</last_name>
-	<patronymic>
-		Sergeevna
-	</patronymic>
+	<FIO>
+		<first_name>
+			Aleksandra
+		</first_name>
+		<last_name>
+			Makeeva
+		</last_name>
+		<patronymic>
+			Sergeevna
+		</patronymic>
+	</FIO>
 	<age>
 		29
 	</age>
