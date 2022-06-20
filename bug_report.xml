@@ -1,36 +1,20 @@
-<!DOCTYPE bug_report>
-<bug_report lang="xml">
-  <bug_report>
-  <id> 
-      1
- </id>
- <Title>
-    bug_report
-  </Title>    
-  <Severity>
-      Minor
-  </Severity>
-  <Priority>
-      Low
-  </Priority>
-  <Environment>
-      Honor 8a Android 9.0
-  </Environment>
-  <STR>
-      step 1
-  </STR>
-  <STR>
-      step 2
-  </STR>
-  
-  <AR>
-      App open
-  </AR> 
-  <ER>
-      Error
-  </ER>
-  <Attachments>
-      Link
-  </Attachments>
-        </bug_report>
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  	<id> 1 </id>
+ 	<summary> Error when launching the application </summary>    
+  	<severity> Critical </severity>
+  	<priority> High </priority>
+  	<status> New </status>
+	<author> Makeeva Aleksandra Sergeevna </author>
+  	<assigned_to> Ivanov </assigned_to>
+  	<description>
+  		<environment> Honor 8a Android 9.0 </environment>
+  		<str>
+      			<step_1> install app </step_1>
+      			<step_2> open app </step_2>
+  		</str>
+  		<ar> App open </ar> 
+  		<er> Error </er>
+  	</description>
+  	<attachment> name.jpg </attachment>
 </bug_report>
